@@ -21,7 +21,7 @@ A total conversion for Crytek's Crysis, featuring:
 
 ## View the Memorial
 
-**Live Site:** [https://vicosurge.github.io/x-com-lasthope-internal/memorial-site/](https://vicosurge.github.io/x-com-lasthope-internal/memorial-site/)
+**Live Site:** [https://vicosurge.github.io/x-com-lasthope/memorial-site/](https://vicosurge.github.io/x-com-lasthope/memorial-site/)
 
 Or run locally:
 ```bash
