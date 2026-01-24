@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#252525"/>
+      <stop offset="100%" style="stop-color:#1a1510"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <text x="200" y="110" font-family="Arial, sans-serif" font-size="48" fill="#dd8300" text-anchor="middle">&#128299;</text>
+  <text x="200" y="160" font-family="Arial, sans-serif" font-size="18" fill="#ffffff" text-anchor="middle" font-weight="bold">X-COM Pistol</text>
+  <text x="200" y="185" font-family="Arial, sans-serif" font-size="13" fill="#b0b0b0" text-anchor="middle">by ApOcaLyPSe_1985</text>
+  <text x="200" y="215" font-family="Arial, sans-serif" font-size="11" fill="#666666" text-anchor="middle">"A soldier's default weapon"</text>
+  <text x="200" y="250" font-family="Arial, sans-serif" font-size="10" fill="#555555" text-anchor="middle">Original image from archived lasthopemod.com - December 2002</text>
+  <rect x="50" y="265" width="300" height="1" fill="#333333"/>
+  <text x="200" y="285" font-family="Arial, sans-serif" font-size="9" fill="#444444" text-anchor="middle">[ Image placeholder - original not recoverable from archive ]</text>
+</svg>
